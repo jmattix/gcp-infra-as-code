@@ -1,3 +1,3 @@
-project_id  = "your-gcp-project-id"
+project_id  = "training-project-13"
 region      = "us-central1"
 environment = "dev"
